@@ -1,0 +1,3 @@
+The first version is for water and Peng-Robinson EOS.
+Solved using NumPy, generate dataset, and then use the dataset to train the NN model. 
+Needs testing and evaluation. 
